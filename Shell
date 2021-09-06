@@ -46,3 +46,8 @@ echo $a >>> bb
 다만 export a를 해놓고 위의 과정을 거치면 다른 shell에서도 사용할 수 있다.
 
 
+명령어 내 " " 와 ''의 차이점
+echo "$truc" >>> bidule
+echo "$truc *" >>> bidule * >>> 문장 내 변수만 변환
+echo '$truc' >>> $truc * >>> 그냥 전체를 문장으로 봄
+
