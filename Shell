@@ -20,5 +20,13 @@ rmdir 혹은 remove directory
 
 권한 변경
 chmod
-ㄴ> u g o
-유저 그룹 아더에 대해서 권한을 변경할 수 있다.
+ㄴ> u g o a
+유저 그룹 아더 올(모두)에 대해서 권한을 변경할 수 있다.
+r w x 읽기 쓰기 실행
+4 2 1
+
+chmod u+r test.txt
+유저의 읽기권한을 test.txt파일에 추가해라
+
+ls는 리스트의 약자
+echo는 프린트와 비슷하다
