@@ -51,3 +51,7 @@ echo "$truc" >>> bidule
 echo "$truc *" >>> bidule * >>> 문장 내 변수만 변환
 echo '$truc' >>> $truc * >>> 그냥 전체를 문장으로 봄
 
+
+심볼릭링크 시간 수정
+https://waytostudy.tistory.com/7
+
