@@ -1,0 +1,24 @@
+파일 만드는 것
+mkdir 혹은 make directory
+ㄴ> mkdir newfile
+
+파일 속성 참고
+ls -p ls-l 사용 /// 
+전체를 샅샅히 보고싶다면? ls -la
+. >>파일 자체를 가르킴
+.. >>> 파일의 부모파일을 가르킴
+
+파일 타고가기
+cd toto
+
+터미널 지우기
+crtl + L
+
+파일 삭제
+rmdir 혹은 remove directory
+ㄴ> 삭제하기 위해선 해당 파일이 비어있어야한다
+
+권한 변경
+chmod
+ㄴ> u g o
+유저 그룹 아더에 대해서 권한을 변경할 수 있다.
