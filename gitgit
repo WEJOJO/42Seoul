@@ -1,2 +1,8 @@
 초기화-git init
 삭제 - rm -rf .git
+git config --h >> git 명령어 --h >>> 명령에에 대해 쓸 수 있는 속성값에 대한 설명을 볼 수 있다
+git config --global alias.st status >>> 스테이터스 명령어를 앞으로 글로벌 변수로 st로 사용할것이다.
+
+워킹 디렉토리 > 스테이지 > .git directory
+변경 사항이 있으면 워킹 디렉토리에서는 언트랙된 파일들이 생김
+이걸 git add하면 스테이지로 가게되는 것.
