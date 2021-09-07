@@ -57,3 +57,14 @@ https://waytostudy.tistory.com/7
 
 https://blog.naver.com/funmanwha21/222438886971
 ㄴ>ls 명령어 구조 분석
+
+
+문서 작성
+cat > a.txt
+blabla
+ctrl+c로 종료 (한줄 안띄우면 저장안됨)
+
+echo blabla > a.txt
+
+문서 추가
+echo blabla >> a.txt (화살표 두개이용)
